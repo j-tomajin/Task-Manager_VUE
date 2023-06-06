@@ -1,0 +1,7 @@
+@import './base.css';
+
+#app {
+  width: min(calc(100% - 24px), 600px);
+  margin-inline: auto;
+  border: 1px solid red;
+}
